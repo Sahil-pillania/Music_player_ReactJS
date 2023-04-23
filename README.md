@@ -3,4 +3,3 @@
 ## Technologies used:
 1. ReactJS
 
-## Sample Shots:
